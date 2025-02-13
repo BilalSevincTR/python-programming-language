@@ -26,7 +26,7 @@ y = 20
 print(x + y) # 30
 
 x, y, z = 10, 20, 30
-x, y, z = 50
+x = y = z = 50
 
 # Output:
 
